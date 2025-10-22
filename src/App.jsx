@@ -2,6 +2,16 @@ import react,{useState} from 'react'
 
 
 function Light(){
+
+
+
+
+
+
+
+
+
+  
   const [light,setLight] = useState(false)
 
   // <!--Example 2-->
@@ -148,6 +158,4 @@ const [show, setShow] = useState(false);
 }
 
 export default Light
-
-
 
